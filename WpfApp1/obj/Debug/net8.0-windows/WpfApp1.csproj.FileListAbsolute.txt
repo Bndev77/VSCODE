@@ -1,0 +1,4 @@
+C:\DevC\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\view\MainWindow.g.cs
+C:\DevC\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\DevC\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\DevC\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
